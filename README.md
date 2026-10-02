@@ -15,6 +15,10 @@ Pour générer la version de production :
 npm run build
 ```
 
+## Déploiement GitHub Pages
+
+Chaque push sur `main` compile puis publie automatiquement le site via GitHub Actions. L’URL de production est `https://ouali-code.github.io/PrintCraft/`.
+
 ## Avertissement
 
 Projet de démonstration conceptuel réalisé pour un portfolio. Ce site n'est affilié à aucune entreprise réelle.
